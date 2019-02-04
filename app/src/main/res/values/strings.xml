@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">پیش بینی آب و هوا</string>
+
+    <string name="max"> حداکثر دما </string>
+    <string name="min"> حداقل دما </string>
+
+
+    <string name="code_113"> آسمان صاف </string>
+    <string name="code_116"> کمی ابری</string>
+    <string name="code_119"> ابری </string>
+    <string name="code_122"> پوشیده از ابر</string>
+    <string name="code_143"> غبار </string>
+    <string name="code_176"> بارش پراکنده باران</string>
+    <string name="code_179"> بارش پراکنده برف</string>
+    <string name="code_182">بارش پراکنده تگرگ </string>
+    <string name="code_185"> بارش نم نم باران</string>
+    <string name="code_323">بارش پراکنده برف</string>
+    <string name="code_320">بارش شدید برف و باران</string>
+    <string name="code_317">بارش ملایم برف و باران</string>
+    <string name="code_314">بارش شدید باران یخ</string>
+    <string name="code_211">بارش ملایم باران یخ</string>
+    <string name="code_308">بارش  شدید باران</string>
+    <string name="code_305"> بارش  شدید باران در برخی ساعات</string>
+    <string name="code_302">بارش  باران</string>
+    <string name="code_299"> بارش باران در برخی ساعات</string>
+    <string name="code_296">بارش  ملایم باران</string>
+    <string name="code_393">بارش  پراکنده ملایم  باران</string>
+    <string name="code_384">بارش  شدید باران</string>
+    <string name="code_281">بارش  شدید باران</string>
+    <string name="code_266">بارش  ملایم باران</string>
+    <string name="code_263">بارش  پراکنده ملایم باران</string>
+    <string name="code_260">بارش  شدید باران</string>
+    <string name="code_248">مه آلود</string>
+    <string name="code_230"> طوفان به همراه برف</string>
+    <string name="code_227">وزش باد همراه با برف</string>
+    <string name="code_200">احتمال وقوع طوفان</string>
+    <string name="code_365"> بارش شدید تگرگ </string>
+
+    <!--
+
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+    <string name="code_182"></string>
+-->
+
+</resources>

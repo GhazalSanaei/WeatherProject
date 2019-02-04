@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="city">
+        <item> تهران </item>
+        <item>   شیراز </item>
+        <item> مشهد </item>
+        <item> اصفهان </item>
+        <item>  گلستان </item>
+        <item>  کرمان </item>
+        <item>  یزد </item>
+        <item>  همدان </item>
+    </string-array>
+
+</resources>
